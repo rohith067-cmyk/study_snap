@@ -1,0 +1,7 @@
+{
+  "name": "StudySnap fixed",
+  "description": "A production-ready AI learning platform with concept mapping, spaced repetition, and exam prediction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

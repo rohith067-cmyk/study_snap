@@ -1,0 +1,34 @@
+# StudySnap AI - Library Requirements
+# Install using: npm install
+
+@google/genai
+better-sqlite3
+express
+multer
+pdf-parse
+mammoth
+d3
+jspdf
+html2canvas
+lucide-react
+motion
+react
+react-dom
+react-markdown
+clsx
+tailwind-merge
+date-fns
+dotenv
+vite
+@tailwindcss/vite
+@vitejs/plugin-react
+
+# Dev Dependencies
+tsx
+typescript
+@types/express
+@types/node
+@types/multer
+@types/pdf-parse
+tailwindcss
+autoprefixer
